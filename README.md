@@ -14,11 +14,9 @@ Key Insights
 * Preparation time impacts performance
 
 Dashboard
-![Dashboard](dashboard/dashboard_screenshot.png)
 
 Conclusion
 Traffic, distance, and preparation time are the main causes of delays. Optimizing these can improve delivery efficiency.
 
 Author
 Anjal Rami
-Your Name
