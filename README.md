@@ -1,4 +1,4 @@
-Food Delivery Analysis Dashboard
+Food Delivery Analysis
 
 Overview
 Analyzed food delivery data using Python and built an interactive Power BI dashboard to identify factors affecting delivery time.
